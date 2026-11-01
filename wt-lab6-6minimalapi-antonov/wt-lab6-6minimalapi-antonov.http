@@ -1,0 +1,6 @@
+@wt_lab6_6minimalapi_antonov_HostAddress = http://localhost:5030
+
+GET {{wt_lab6_6minimalapi_antonov_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

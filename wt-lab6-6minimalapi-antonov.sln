@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wt-lab6-6minimalapi-antonov", "wt-lab6-6minimalapi-antonov\wt-lab6-6minimalapi-antonov.csproj", "{3370704E-BE41-45F4-A5B5-C081904394DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3370704E-BE41-45F4-A5B5-C081904394DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3370704E-BE41-45F4-A5B5-C081904394DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3370704E-BE41-45F4-A5B5-C081904394DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3370704E-BE41-45F4-A5B5-C081904394DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CD39984-A7D0-4E16-B4B5-901973DA2DF3}
+	EndGlobalSection
+EndGlobal
